@@ -65,10 +65,21 @@ if (faqSearch && notes.length) {
     const query = normalize(faqSearch.value); let visible = 0;
     notes.forEach(note => { note.hidden = !normalize(note.textContent).includes(query); if (!note.hidden) visible++; });
     empty.hidden = visible > 0;
-    const count = $('.tp-board__count,.tp-faq__count');
+    const count = $('.tp-notes__count');
     if (count) count.textContent = `${visible} notes on the board`;
   });
 }
+
+// The reference's locally available showroom clip uses native playback controls.
+$$('.tp-clip').forEach(clip => {
+  const video=$('video',clip),button=$('button',clip);
+  if(!video||!button)return;
+  button.addEventListener('click',async()=>{
+    video.controls=true;
+    try{await video.play();button.hidden=true;}
+    catch{button.hidden=false;button.setAttribute('aria-label','Try playing video');}
+  });
+});
 
 // Journey tabs with Arrow/Home/End keyboard interaction.
 const tabs = $$('[role="tab"]');

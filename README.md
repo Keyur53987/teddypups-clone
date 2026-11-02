@@ -2,6 +2,8 @@
 
 Technical assignment for Insta Biz Web. A responsive, self-contained static reconstruction of [the supplied reference](https://puppy.instabizweb.com/), covering 49 routes.
 
+[Live website](https://keyur53987.github.io/teddypups-clone/) · [Validation record](docs/VALIDATION.md) · [Loom guide](docs/LOOM-WALKTHROUGH.md) · [AI disclosure](docs/AI-PROMPTS.md)
+
 ## Run locally
 
 Requires Node.js 20 or newer. There are no npm dependencies to install.
