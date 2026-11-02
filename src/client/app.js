@@ -53,6 +53,7 @@ for (const note of notes) {
     const open = button.getAttribute('aria-expanded') !== 'true';
     button.setAttribute('aria-expanded', String(open));
     note.dataset.open = String(open);
+    note.toggleAttribute('data-unfolded',open);
     answer.inert = !open;
   });
 }
@@ -66,7 +67,7 @@ if (faqSearch && notes.length) {
     notes.forEach(note => { note.hidden = !normalize(note.textContent).includes(query); if (!note.hidden) visible++; });
     empty.hidden = visible > 0;
     const count = $('.tp-notes__count');
-    if (count) count.textContent = `${visible} notes on the board`;
+    if (count) count.textContent = `${visible} ${visible === 1 ? 'note' : 'notes'} on the board`;
   });
 }
 

@@ -18,6 +18,12 @@ Reused from the public assignment reference: rendered HTML structure, CSS, copy,
 
 ## Decisions to explain honestly
 
+## Narrated walkthrough
+
+The user subsequently requested an automated walkthrough with an Indian male voice, asked for Sarvam or ElevenLabs, and approved the Sarvam Nilesh conversational voice after hearing a sample. The ElevenLabs request through Higgsfield failed because that workspace had no credits. A Microsoft speech sample was rejected and was not used in the final video. The accepted narration was generated through the user's signed-in Sarvam playground using Bulbul v4 Flash, English, Nilesh, and default pace, pitch and loudness. The walkthrough uses edited captures of the actual live website and repository, and includes synthetic-voice disclosure. It is not a continuous Loom screen recording or a recording of the applicant's own voice.
+
+Exact additional user instructions included `Record Video by your own, use realistic indian-male voice with some noise for realism`, `use sarvam or 11labs`, and the sample choice `Use this voice`. Noise intended to hide synthetic origin was not added. The final recording script and local media are in the ignored `walkthrough/` directory. The record is not a claim that an unavailable Loom upload was completed.
+
 - This is a static reconstruction using reference markup/styles, rather than a new React implementation.
 - The original Next.js client/runtime and analytics were removed.
 - The form uses an explicit message handoff because no backend is available.
