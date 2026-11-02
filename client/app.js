@@ -1,4 +1,4 @@
-import { matchesPuppy, normalize, wrapIndex, enquiryText } from './logic.js';
+import { matchesPuppy, normalize, wrapIndex, enquiryText } from './logic.js?v=aaa8c4a119e8';
 
 const $ = (selector, parent = document) => parent.querySelector(selector);
 const $$ = (selector, parent = document) => [...parent.querySelectorAll(selector)];
