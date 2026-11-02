@@ -1,0 +1,298 @@
+{
+  "/puppies/bichon-bailey-boy": {
+    "name": "Bailey",
+    "Breed": "Bichon",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/blue-marle-pomeranian": {
+    "name": "Pomeranian",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Colour": "Marble",
+    "Where": "Imported for you"
+  },
+  "/puppies/copper-male": {
+    "name": "Copper",
+    "Breed": "Cavapoo",
+    "Boy or girl": "Boy",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/korean-teacup-maltipoo-female": {
+    "name": "Korean Teacup Maltipoo",
+    "Breed": "Korean Teacup Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/korean-teacup-pomeranian-1": {
+    "name": "Korean Teacup Pomeranian",
+    "Breed": "Korean Teacup Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/korean-teacup-pomeranian-male": {
+    "name": "Korean Teacup Pomeranian",
+    "Breed": "Korean Teacup Pomeranian",
+    "Boy or girl": "Boy",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/korean-teacup-pomeranian": {
+    "name": "Korean Teacup Pomeranian",
+    "Breed": "Korean Teacup Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/korean-teacup-poodle-female": {
+    "name": "Korean Teacup Poodle",
+    "Breed": "Korean Teacup Poodle",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltese-buddy-male": {
+    "name": "Buddy",
+    "Breed": "Maltese",
+    "Boy or girl": "Boy",
+    "Age": "2 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltese-charlie-male": {
+    "name": "Charlie",
+    "Breed": "Maltese",
+    "Boy or girl": "Boy",
+    "Age": "3.5 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipo": {
+    "name": "Poodle",
+    "Breed": "Poodle",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltipoo-bruno-boy": {
+    "name": "Bruno",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltipoo-cavapoo-male": {
+    "name": "Maltipoo & Cavapoo",
+    "Breed": "Maltipoo & Cavapoo",
+    "Boy or girl": "Boy",
+    "Age": "3 months Maltipoo & 2 months Cavapoo",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-female-1": {
+    "name": "Maltipoo",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "2.5 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-female-2": {
+    "name": "Maltipoo",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-female": {
+    "name": "Maltipoo",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-lola-girl": {
+    "name": "Lola",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltipoo-max-male": {
+    "name": "Max",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-mia-girl": {
+    "name": "Mia",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Colour": "Golden Cream",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltipoo-sadie-girl": {
+    "name": "Sadie",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/maltipoo-sophie-girl": {
+    "name": "Sophie",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/maltipoo-zoe-girl": {
+    "name": "Zoe",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomeranian-ace-boy": {
+    "name": "Ace",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomeranian-bella-female": {
+    "name": "Bella",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "4 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomeranian-daisy-girl": {
+    "name": "Daisy",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/pomeranian-female": {
+    "name": "Pomeranian",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomeranian-leo-boy": {
+    "name": "Leo",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/pomeranian-mimi-girl": {
+    "name": "Mimi",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/pomeranian-rex-boy": {
+    "name": "Rex",
+    "Breed": "Pomeranian",
+    "Boy or girl": "Boy",
+    "Age": "5 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomski-coco-girl": {
+    "name": "Coco",
+    "Breed": "Pomsky",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomsky-finn-male": {
+    "name": "Finn",
+    "Breed": "Pomsky",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomsky-ollie-boy": {
+    "name": "Ollie",
+    "Breed": "Pomsky",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/pomsky-rosie-girl": {
+    "name": "Rosie",
+    "Breed": "Pomsky",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/poodle-leo-male": {
+    "name": "Leo",
+    "Breed": "Poodle",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/poodle-molly-female": {
+    "name": "Molly",
+    "Breed": "Poodle",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "In Dubai"
+  },
+  "/puppies/poodle-molly-girl": {
+    "name": "Molly",
+    "Breed": "Poodle",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/poodle-rocky-boy": {
+    "name": "Rocky",
+    "Breed": "Poodle",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/poodle-teddy-male": {
+    "name": "Teddy",
+    "Breed": "Poodle",
+    "Boy or girl": "Boy",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/puppy": {
+    "name": "Maltipoo",
+    "Breed": "Maltipoo",
+    "Boy or girl": "Girl",
+    "Age": "3 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/shitzu-female": {
+    "name": "Shih Tzu",
+    "Breed": "Shih Tzu",
+    "Boy or girl": "Girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/shitzu-male": {
+    "name": "Shih Tzu",
+    "Breed": "Shih Tzu",
+    "Boy or girl": "Boy",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  },
+  "/puppies/toy-poodle-male-female": {
+    "name": "Toy Poodle",
+    "Breed": "Toy Poodle",
+    "Boy or girl": "Boy & girl",
+    "Age": "2 months",
+    "Where": "Imported for you"
+  }
+}

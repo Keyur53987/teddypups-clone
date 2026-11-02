@@ -1,0 +1,7 @@
+reference/
+dist/
+.deploy/
+node_modules/
+*.tar.gz
+.DS_Store
+*.log
