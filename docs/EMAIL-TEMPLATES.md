@@ -19,7 +19,7 @@ Please find my technical assignment deliverables below:
 
 - Live Website URL: https://keyur53987.github.io/teddypups-clone/
 - GitHub Repository URL: https://github.com/Keyur53987/teddypups-clone
-- Loom Video URL: [your recorded Loom URL]
+- Loom Video URL: https://www.loom.com/share/782c3fa9782b49b9b3d1867590989252
 
 The repository documents the implementation, AI use, setup, validation and known limitations. The walkthrough explains my process and the implementation decisions.
 
