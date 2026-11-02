@@ -1,0 +1,626 @@
+{
+  "/puppies/bichon-bailey-boy": [
+    {
+      "src": "/assets/73920bbace03.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c1a87059dc22.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ff9acd48448d.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/blue-marle-pomeranian": [
+    {
+      "src": "/assets/2e4c4cbffe12.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/copper-male": [
+    {
+      "src": "/assets/4d68cf8eec96.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/76cd47dd8459.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/3a3ef74c5d62.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/0d46776455b1.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/korean-teacup-maltipoo-female": [
+    {
+      "src": "/assets/4a36e12abc8e.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/772650f8efdb.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/5fe8dcd9e1c7.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/43b8aec4b32f.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/e45fa287b128.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ed8bf7431d46.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/80b3778cf324.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ddff4a7c812a.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/9fc48b030241.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/f1a14b2a82d8.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c397c745c702.jpg",
+      "poster": "/assets/c397c745c702.jpg",
+      "kind": "video",
+      "unavailable": true
+    }
+  ],
+  "/puppies/korean-teacup-pomeranian-1": [
+    {
+      "src": "/assets/f89e774bd089.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c6603f3f16e2.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/korean-teacup-pomeranian-male": [
+    {
+      "src": "/assets/f3dbf3c40046.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/7f6f3da40552.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/eda1dc4ad2e5.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b831bccf0648.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/korean-teacup-pomeranian": [
+    {
+      "src": "/assets/ec52e6a88ec6.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/de01ee47f5df.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/korean-teacup-poodle-female": [
+    {
+      "src": "/assets/f33504f520c7.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b89a59b8e4cb.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/f73d6d52f311.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/f57129290d12.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltese-buddy-male": [
+    {
+      "src": "/assets/1b0551793cd0.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltese-charlie-male": [
+    {
+      "src": "/assets/4cc7a5469fa2.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipo": [
+    {
+      "src": "/assets/4ed9dd932f1c.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-bruno-boy": [
+    {
+      "src": "/assets/41fcc7f92a73.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/4dd664488e07.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/d0509ba9f6b9.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ea9cab474e8a.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-cavapoo-male": [
+    {
+      "src": "/assets/6a3a9ed5e472.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/18801557d146.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/292e87d70d91.jpg",
+      "poster": "/assets/292e87d70d91.jpg",
+      "kind": "video",
+      "unavailable": true
+    }
+  ],
+  "/puppies/maltipoo-female-1": [
+    {
+      "src": "/assets/624f3f03b316.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/99e355c41c3f.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/a9774b85b224.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c1f448af72ce.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-female-2": [
+    {
+      "src": "/assets/bd64b529e707.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/df4974e423b3.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/dd8535e7e2e5.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/3b2c36a8344d.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/a48e0055e94f.jpg",
+      "poster": "/assets/a48e0055e94f.jpg",
+      "kind": "video",
+      "unavailable": true
+    },
+    {
+      "src": "/assets/42d5503c2206.jpg",
+      "poster": "/assets/42d5503c2206.jpg",
+      "kind": "video",
+      "unavailable": true
+    },
+    {
+      "src": "/assets/e665f1978bc6.jpg",
+      "poster": "/assets/e665f1978bc6.jpg",
+      "kind": "video",
+      "unavailable": true
+    }
+  ],
+  "/puppies/maltipoo-female": [
+    {
+      "src": "/assets/c2ee501a3ddd.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/1018f6637648.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/040095ee4c4d.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/2bd2c2b0a7a7.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-lola-girl": [
+    {
+      "src": "/assets/5765c8fd0a8b.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/f61aa3c20ec5.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/e11d11ec2946.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/4cb51afaf7dc.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-max-male": [
+    {
+      "src": "/assets/f19e786230a8.webp",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/91ecc409992f.jpg",
+      "poster": "/assets/91ecc409992f.jpg",
+      "kind": "video",
+      "unavailable": true
+    }
+  ],
+  "/puppies/maltipoo-mia-girl": [
+    {
+      "src": "/assets/f9c1d3f907b5.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b71ae3f19247.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/161316fd8b9b.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c19c64b57a72.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-sadie-girl": [
+    {
+      "src": "/assets/5bc3ba9d26ab.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/4cabc3c27f5d.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/5b3a6c987770.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/f9c1d3f907b5.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-sophie-girl": [
+    {
+      "src": "/assets/f3ea37b8558d.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/e5e03d09987d.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ec57a0fa6f01.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/maltipoo-zoe-girl": [
+    {
+      "src": "/assets/7b5a75138f24.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/46fca05e5e8c.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/301b41448db4.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/3a2ba5823c23.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c70aa47d0975.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-ace-boy": [
+    {
+      "src": "/assets/25e672f9c314.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/debb78c4a9d4.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/3548ed0a9a7a.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/3e08f043bc6b.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-bella-female": [
+    {
+      "src": "/assets/d2a44a6a7acd.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-daisy-girl": [
+    {
+      "src": "/assets/ec00ddb61521.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-female": [
+    {
+      "src": "/assets/b4b20186c032.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b26410705104.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/ca559808a6c5.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-leo-boy": [
+    {
+      "src": "/assets/dd164f0d4cb9.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/5b8310f889fa.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/31ca059c28fa.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/8028df7f121f.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/235199f76ecc.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-mimi-girl": [
+    {
+      "src": "/assets/d7d6eb817455.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/c1a87059dc22.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/1401bbfb9562.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/7398ad11ccf9.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b2028c15551b.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/d49d91dccca2.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomeranian-rex-boy": [
+    {
+      "src": "/assets/9b3255024b6d.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/355b48b93b65.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/eeb673e97539.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomski-coco-girl": [
+    {
+      "src": "/assets/b086e6a4a5a5.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/108ae98fb524.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/733c7cce6a72.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomsky-finn-male": [
+    {
+      "src": "/assets/ebd938ec09fd.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomsky-ollie-boy": [
+    {
+      "src": "/assets/107496c52149.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/54395986d834.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/b4b1d8631577.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/pomsky-rosie-girl": [
+    {
+      "src": "/assets/fa144f605029.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/08db28915203.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/0a00c35927c8.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/46cf9b98d0ef.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/poodle-leo-male": [
+    {
+      "src": "/assets/2c388da3dcf6.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/d501069ccd24.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/919f74951637.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/90a83cd217fa.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/poodle-molly-female": [
+    {
+      "src": "/assets/f21488b10132.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/poodle-molly-girl": [
+    {
+      "src": "/assets/aaa0e4b48b66.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/be1e1f93ebf8.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/d6cef0f21a43.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/poodle-rocky-boy": [
+    {
+      "src": "/assets/4da7420daa98.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/7bd8f5189460.avif",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/034f305724fe.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/poodle-teddy-male": [
+    {
+      "src": "/assets/d83a65a51884.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/puppy": [
+    {
+      "src": "/assets/3a5b53c01dae.avif",
+      "kind": "image"
+    }
+  ],
+  "/puppies/shitzu-female": [
+    {
+      "src": "/assets/dc75d7e4b56a.jpeg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/bf7842490f95.jpeg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/shitzu-male": [
+    {
+      "src": "/assets/a9de60533f5e.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/4cdbf114e5b7.jpg",
+      "kind": "image"
+    }
+  ],
+  "/puppies/toy-poodle-male-female": [
+    {
+      "src": "/assets/bafbe179a0a7.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/51870abd49c0.jpg",
+      "kind": "image"
+    },
+    {
+      "src": "/assets/50af329f569c.jpg",
+      "kind": "image"
+    }
+  ]
+}
