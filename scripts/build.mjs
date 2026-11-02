@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir, cp } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const read = relative => readFile(path.join(root, relative), 'utf8');
@@ -12,6 +13,11 @@ const footer = await read('src/partials/footer.html');
 await mkdir(path.join(root, 'dist'), { recursive: true });
 await cp(path.join(root, 'public'), path.join(root, 'dist'), { recursive: true });
 await cp(path.join(root, 'src/client'), path.join(root, 'dist/client'), { recursive: true });
+const client = await read('src/client/app.js');
+const version = createHash('sha256').update(client).update(await read('src/client/logic.js'))
+  .update(await read('src/client/app.css')).digest('hex').slice(0,12);
+// Version both the entry point and its module import to avoid stale Pages/CDN caches.
+await writeFile(path.join(root,'dist/client/app.js'),client.replace("'./logic.js'",`'./logic.js?v=${version}'`));
 
 // Prefix only site-local paths: external destinations, anchors and data URIs stay intact.
 const localize = html => html.replace(/\b(href|src|poster|action)="\/(?!\/)([^"]*)"/g,
@@ -34,7 +40,7 @@ for (const route of config.routes) {
 <meta name="description" content="Meet premium miniature and teacup puppies. Browse real photos, family stories, and the TeddyPups puppy journey.">
 <meta name="theme-color" content="#fff9ed"><link rel="canonical" href="${origin}${base}${route}">
 ${config.styles.map(href => `<link rel="stylesheet" href="${href}">`).join('\n')}
-<link rel="stylesheet" href="/client/app.css"><script type="module" src="/client/app.js"></script>
+<link rel="stylesheet" href="/client/app.css?v=${version}"><script type="module" src="/client/app.js?v=${version}"></script>
 </head><body data-base="${base}" data-route="${route}">
 <a href="#main" class="skip-link">Skip to content</a>
 ${header}<main id="main" tabindex="-1" class="relative pt-[var(--header-h)] outline-none">${main}</main>${footer}
