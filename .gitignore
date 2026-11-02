@@ -3,6 +3,14 @@ dist/
 .deploy/
 .video-venv/
 walkthrough/
+# Local development references and submission preparation; not application source.
+scripts/capture-reference.py
+scripts/extract-data.py
+src/asset-sources.json
+docs/EMAIL-TEMPLATES.md
+docs/LOOM-WALKTHROUGH.md
+docs/SUBMISSION-LINKS.md
+docs/screenshots/
 node_modules/
 *.tar.gz
 .DS_Store

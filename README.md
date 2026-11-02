@@ -2,7 +2,7 @@
 
 Technical assignment for Insta Biz Web. A responsive, self-contained static reconstruction of [the supplied reference](https://puppy.instabizweb.com/), covering 49 routes.
 
-[Live website](https://keyur53987.github.io/teddypups-clone/) · [Validation record](docs/VALIDATION.md) · [Loom guide](docs/LOOM-WALKTHROUGH.md) · [AI disclosure](docs/AI-PROMPTS.md)
+[Live website](https://keyur53987.github.io/teddypups-clone/) · [Loom walkthrough](https://www.loom.com/share/782c3fa9782b49b9b3d1867590989252) · [Validation record](docs/VALIDATION.md) · [AI disclosure](docs/AI-PROMPTS.md)
 
 ## Run locally
 
@@ -35,11 +35,9 @@ The original look is preserved through the reference's visual styles and assets;
 | `public/data/` | Normalized catalog and gallery metadata |
 | `scripts/build.mjs` | Static page generation, asset copying and hosting path support |
 | `scripts/serve.mjs` | Local static preview server |
-| `scripts/capture-reference.py` | One-time reference normalization tool; requires Beautiful Soup |
-| `scripts/extract-data.py` | One-time catalog/gallery extraction tool |
 | `tests/` | Node built-in test runner tests |
 | `scripts/deploy.mjs` | Test, build, and push the static Pages branch |
-| `docs/` | AI log, walkthrough guide, validation record and email templates |
+| `docs/` | AI-use log and validation record |
 
 ## Functionality
 
