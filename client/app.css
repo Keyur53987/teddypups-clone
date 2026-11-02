@@ -6,7 +6,6 @@ main { min-height: 60vh; }
 .skip-link:focus { top:1rem; }
 :focus-visible { outline:3px solid #217755;outline-offset:5px; }
 .tp-note[data-open="true"] .tp-note__answer { grid-template-rows:1fr;opacity:1; }
-.tp-note[data-open="true"] .tp-note__chevron { transform:rotate(180deg); }
 .tp-note__answer { transition:grid-template-rows .25s,opacity .25s; }
 .catalog-tools { display:flex;flex-wrap:wrap;gap:12px;margin:2rem 0;align-items:center; }
 .catalog-tools label { display:grid;gap:4px;font-size:.85rem;font-weight:600; }

@@ -1,4 +1,4 @@
-import { matchesPuppy, normalize, wrapIndex, enquiryText } from './logic.js?v=aaa8c4a119e8';
+import { matchesPuppy, normalize, wrapIndex, enquiryText } from './logic.js?v=2bec2b03aec1';
 
 const $ = (selector, parent = document) => parent.querySelector(selector);
 const $$ = (selector, parent = document) => [...parent.querySelectorAll(selector)];
@@ -53,6 +53,7 @@ for (const note of notes) {
     const open = button.getAttribute('aria-expanded') !== 'true';
     button.setAttribute('aria-expanded', String(open));
     note.dataset.open = String(open);
+    note.toggleAttribute('data-unfolded',open);
     answer.inert = !open;
   });
 }
@@ -66,7 +67,7 @@ if (faqSearch && notes.length) {
     notes.forEach(note => { note.hidden = !normalize(note.textContent).includes(query); if (!note.hidden) visible++; });
     empty.hidden = visible > 0;
     const count = $('.tp-notes__count');
-    if (count) count.textContent = `${visible} notes on the board`;
+    if (count) count.textContent = `${visible} ${visible === 1 ? 'note' : 'notes'} on the board`;
   });
 }
 
